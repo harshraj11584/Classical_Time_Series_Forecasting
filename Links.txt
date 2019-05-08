@@ -1,0 +1,10 @@
+Webpages read in order: 
+
+1. What Is Time Series Forecasting?
+https://machinelearningmastery.com/time-series-forecasting/
+
+2. Time Series Forecasting as Supervised Learning
+https://machinelearningmastery.com/time-series-forecasting-supervised-learning/
+
+3. Time Series Forecasting with Python
+https://machinelearningmastery.com/time-series-forecasting-python-mini-course/
