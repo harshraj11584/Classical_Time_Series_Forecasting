@@ -1,0 +1,6 @@
+DataSets : 
+
+1. daily-total-female-births.csv : https://raw.githubusercontent.com/jbrownlee/Datasets/master/daily-total-female-births.csv
+
+2. shampoo.csv
+https://raw.githubusercontent.com/jbrownlee/Datasets/master/shampoo.csv

@@ -1,0 +1,31 @@
+Webpages referred (in order): 
+
+1. What Is Time Series Forecasting?
+https://machinelearningmastery.com/time-series-forecasting/
+
+2. Time Series Forecasting as Supervised Learning
+https://machinelearningmastery.com/time-series-forecasting-supervised-learning/
+
+3. Time Series Forecasting with Python
+https://machinelearningmastery.com/time-series-forecasting-python-mini-course/
+{	
+	i) A Gentle Introduction to Autocorrelation and Partial Autocorrelation
+	https://machinelearningmastery.com/gentle-introduction-autocorrelation-partial-autocorrelation/
+
+	ii) How to Make Baseline Predictions for Time Series Forecasting with Python
+	https://machinelearningmastery.com/persistence-time-series-forecasting-with-python/
+
+	iii) Autoregression Models for Time Series Forecasting With Python
+	https://machinelearningmastery.com/autoregression-models-time-series-forecasting-python/
+
+	iv) Time series Forecasting — ARIMA models
+	https://towardsdatascience.com/time-series-forecasting-arima-models-7f221e9eee06
+
+	v) How to Create an ARIMA Model for Time Series Forecasting in Python
+	https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/
+}
+
+
+
+
+
