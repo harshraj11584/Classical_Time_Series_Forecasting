@@ -28,6 +28,16 @@ https://machinelearningmastery.com/time-series-forecasting-python-mini-course/
 4. Basic Feature Engineering With Time Series Data in Python
 https://machinelearningmastery.com/basic-feature-engineering-time-series-data-python/
 
+5. How to Use and Remove Trend Information from Time Series Data in Python
+https://machinelearningmastery.com/time-series-trends-in-python/
+
+6. How to Identify and Remove Seasonality from Time Series Data with Python
+https://machinelearningmastery.com/time-series-seasonality-with-python/
+
+7. Moving Average Smoothing for Time Series Forecasting with Python
+https://machinelearningmastery.com/moving-average-smoothing-for-time-series-forecasting-python/
+
+
 
 
 
