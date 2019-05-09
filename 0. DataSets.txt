@@ -4,3 +4,8 @@ DataSets :
 
 2. shampoo.csv
 https://raw.githubusercontent.com/jbrownlee/Datasets/master/shampoo.csv
+
+3. daily-min-temperatures.csv
+https://raw.githubusercontent.com/jbrownlee/Datasets/master/daily-min-temperatures.csv
+
+

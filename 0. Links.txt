@@ -25,6 +25,8 @@ https://machinelearningmastery.com/time-series-forecasting-python-mini-course/
 	https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/
 }
 
+4. Basic Feature Engineering With Time Series Data in Python
+https://machinelearningmastery.com/basic-feature-engineering-time-series-data-python/
 
 
 
