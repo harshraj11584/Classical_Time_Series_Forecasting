@@ -9,4 +9,7 @@ https://raw.githubusercontent.com/jbrownlee/Datasets/master/shampoo.csv
 3. daily-min-temperatures.csv
 https://raw.githubusercontent.com/jbrownlee/Datasets/master/daily-min-temperatures.csv
 
+4. DEOK_hourly.csv
+https://www.kaggle.com/robikscube/hourly-energy-consumption#DEOK_hourly.csv
+
 

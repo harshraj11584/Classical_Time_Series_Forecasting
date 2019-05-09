@@ -37,7 +37,15 @@ https://machinelearningmastery.com/time-series-seasonality-with-python/
 7. Moving Average Smoothing for Time Series Forecasting with Python
 https://machinelearningmastery.com/moving-average-smoothing-for-time-series-forecasting-python/
 
+8. Stationary Data Tests for Time Series Forecasting
+https://pythondata.com/stationary-data-tests-for-time-series-forecasting/
 
+9. Augmented Dickey-Fuller Test in Python
+http://www.insightsbot.com/blog/1MH61d/augmented-dickey-fuller-test-in-python
 
+10. A Gentle Introduction to Handling a Non-Stationary Time Series in Python
+https://www.analyticsvidhya.com/blog/2018/09/non-stationary-time-series-python/
 
+11. How to Check if Time Series Data is Stationary with Python
+https://machinelearningmastery.com/time-series-data-stationary-python/
 
