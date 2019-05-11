@@ -58,5 +58,10 @@ https://machinelearningmastery.com/gentle-introduction-box-jenkins-method-time-s
 14. How to Grid Search ARIMA Model Hyperparameters with Python
 https://machinelearningmastery.com/grid-search-arima-hyperparameters-with-python/
 
+15. A Gentle Introduction to SARIMA for Time Series Forecasting in Python
+https://machinelearningmastery.com/sarima-for-time-series-forecasting-in-python/
+
+16. A Gentle Introduction to Exponential Smoothing for Time Series Forecasting in Python
+https://machinelearningmastery.com/exponential-smoothing-for-time-series-forecasting-in-python/
 
 
