@@ -64,4 +64,10 @@ https://machinelearningmastery.com/sarima-for-time-series-forecasting-in-python/
 16. A Gentle Introduction to Exponential Smoothing for Time Series Forecasting in Python
 https://machinelearningmastery.com/exponential-smoothing-for-time-series-forecasting-in-python/
 
+17. Confusing Stats Terms Explained: Heteroscedasticity 
+http://www.statsmakemecry.com/smmctheblog/confusing-stats-terms-explained-heteroscedasticity-heteroske.html
+
+18. How to Model Volatility with ARCH and GARCH for Time Series Forecasting in Python
+https://machinelearningmastery.com/develop-arch-and-garch-models-for-time-series-forecasting-in-python/
+
 
